@@ -1,5 +1,5 @@
 body {
-  background-color: #f5edce;
+  background-color: #f5edce !important;
   display: block;
   margin: 8px;
 }
@@ -10,4 +10,7 @@ body {
 }
 footer {
   text-align: center;
+}
+a {
+  color: green !important;
 }
